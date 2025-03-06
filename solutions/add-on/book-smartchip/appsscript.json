@@ -24,17 +24,17 @@
           "patterns": [
             {
               "hostPattern": "*.google.*",
-              "pathPrefix": "books"
+              "pathPrefix": "e-books"
             },
             {
               "hostPattern": "*.google.*",
-              "pathPrefix": "books/edition"
+              "pathPrefix": "E-books/edition"
             }
           ],
           "labelText": "Book",
           "logoUrl": "https://developers.google.com/workspace/add-ons/images/book-icon.png",
           "localizedLabelText": {
-            "es": "Libros"
+            "es": "E-Libros"
           }
         }
       ]
